@@ -1,4 +1,4 @@
-package com.optimum.telecom.model;
+package com.sample.telecom.model;
 
 import lombok.Builder;
 import lombok.Data;

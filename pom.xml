@@ -8,11 +8,11 @@
 		<version>3.2.2</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.optimum</groupId>
+	<groupId>com.sample</groupId>
 	<artifactId>telecom-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>telecom-backend</name>
-	<description>Optimum Telecom Platform Backend</description>
+	<description>Sample Telecom Platform Backend</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

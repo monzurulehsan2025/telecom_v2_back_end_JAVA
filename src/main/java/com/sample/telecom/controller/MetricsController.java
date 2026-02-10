@@ -1,6 +1,6 @@
-package com.optimum.telecom.controller;
+package com.sample.telecom.controller;
 
-import com.optimum.telecom.model.OperationalMetrics;
+import com.sample.telecom.model.OperationalMetrics;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

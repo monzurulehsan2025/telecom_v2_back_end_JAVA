@@ -1,6 +1,6 @@
-package com.optimum.telecom.controller;
+package com.sample.telecom.controller;
 
-import com.optimum.telecom.model.PlatformStatus;
+import com.sample.telecom.model.PlatformStatus;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
